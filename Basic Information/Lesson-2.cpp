@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     cout << "--- Kacis Karakterleri Ornegi ---\n\n";        // \n: Yeni satıra geçer
 
-    cout << "Ad:\tAbdulkerim\n";                                   // \t bir tab boşluk bırakır
+    cout << "Ad:\tAbdulkerim\n";                            // \t bir tab boşluk bırakır
     cout << "Bolum:\tYazilim\n\n";
 
     cout << "\"Merhaba\" dedi.\n";                          // \" çift tırnağı yazdırır
