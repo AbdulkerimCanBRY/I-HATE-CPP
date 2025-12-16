@@ -26,3 +26,5 @@ int main() {
     }
     return 0;
 }
+
+// Bu kodda 10 sarkilik bir liste var. 3. sarkiyi begenmedigimiz icin atliyoruz ve 6. sarkida sarj bittiği için döngüyü sonlandiriyoruz.
