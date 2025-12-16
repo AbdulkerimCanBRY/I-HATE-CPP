@@ -16,4 +16,4 @@ int main() {
     return 0;
 }
 
-// Bu kodda 10 kurabiye yapıyoruz. 3. kurabiye yanık olduğu için onu atlıyoruz ve 7. kurabiyede kıl çıktığı için döngüyü tamamen sonlandırıyoruz.
+// Bu kodda 10 kurabiye yapıyoruz. 3. kurabiye yanık olduğu için onu atlıyoruz ve 7. kurabiyede kıl çıktığı için başka kurabiye yemiyoruz.
