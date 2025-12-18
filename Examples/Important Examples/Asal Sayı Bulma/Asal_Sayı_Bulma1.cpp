@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int sayi, i, control;                                           // control değişkeni asal olup olmadığını kontrol etmek için kullanılır.
+    int sayi, i, control=1;                                           // control değişkeni asal sayı kontrolü için kullanılır.
     cout << "Pozitif bir tamsayi giriniz: ";
     cin >> sayi;
     if (sayi < 2) {                                                 // 2'den küçük sayılar asal sayı değildir.
