@@ -14,6 +14,10 @@ int main() {
 
     do {
         cin >> tahmin;
+        if (tahmin < 1 || tahmin > 100) {
+            cout << "Lütfen 1 ile 100 arasında bir sayı girin." << endl;
+            continue;
+        }
         denemeSayisi++;
 
         if (tahmin < rastgeleSayi) {
